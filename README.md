@@ -17,4 +17,6 @@
 * swiper
 
 ### Upcoming Updates
-* Login page
+* Authentication using Next-Auth or Clerk JS
+* Connect to Mongo DB using Mongoose or Prisma
+* REST API to CRUD cars 
