@@ -16,5 +16,5 @@
 * react-scroll
 * swiper
 
-## Upcoming Updates
+### Upcoming Updates
 * Login page
