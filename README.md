@@ -5,3 +5,8 @@
 
 ## Technologies
 * Next-JS 13
+* Tailwind CSS
+* React countUp
+* React Date-range-picker
+* Date-fns
+* Framer-Motion
