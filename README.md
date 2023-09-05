@@ -17,4 +17,4 @@
 * swiper
 
 ## Upcoming Updates
-** Login page
+* Login page
