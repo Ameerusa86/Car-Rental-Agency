@@ -10,3 +10,8 @@
 * React Date-range-picker
 * Date-fns
 * Framer-Motion
+* React Headless UI
+* react-intersection-observer
+* react-responsive
+* react-scroll
+* swiper
