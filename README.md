@@ -21,4 +21,4 @@
 ### Upcoming Updates
 * Authentication using Next-Auth or Clerk JS
 * Connect to Mongo DB using Mongoose or Prisma
-* REST API to CRUD cars 
+* REST API to CRUD carss
